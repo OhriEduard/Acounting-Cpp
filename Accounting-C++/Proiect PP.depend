@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1684163812 source:d:\coding\coduri c++\proiect programare c++\proiect pp\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	<fstream>
+
+1685388023 source:d:\coding\coduri c++\proiect programare c++\proiect pp\clase.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
